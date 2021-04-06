@@ -23,5 +23,5 @@
 - C programming -90%
 - Java -100% 
 - Python
-####Goals
+**Goals**
 - Software devloper in 'python'
